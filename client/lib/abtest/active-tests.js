@@ -111,4 +111,12 @@ export default {
 		},
 		defaultVariation: 'no',
 	},
+	privateByDefault: {
+		datestamp: '20181113',
+		variations: {
+			private: 10,
+			public: 90,
+		},
+		defaultVariation: 'public',
+	},
 };
